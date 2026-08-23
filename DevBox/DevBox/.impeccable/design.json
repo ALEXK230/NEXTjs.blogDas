@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-23T15:21:01.6643080-05:00",
+  "title": "Design System: DevNova",
+  "extensions": {
+    "colorMeta": {
+      "canvas-cream": {
+        "role": "neutral",
+        "displayName": "Canvas Cream",
+        "canonical": "#f7f3e8",
+        "tonalRamp": ["oklch(15% 0.015 95)", "oklch(26% 0.015 95)", "oklch(38% 0.015 95)", "oklch(50% 0.015 95)", "oklch(63% 0.015 95)", "oklch(75% 0.015 95)", "oklch(86% 0.015 95)", "oklch(95% 0.015 95)"]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "#fffcf4",
+        "tonalRamp": ["oklch(15% 0.012 95)", "oklch(26% 0.012 95)", "oklch(38% 0.012 95)", "oklch(50% 0.012 95)", "oklch(63% 0.012 95)", "oklch(75% 0.012 95)", "oklch(86% 0.012 95)", "oklch(95% 0.012 95)"]
+      },
+      "carbon": {
+        "role": "neutral",
+        "displayName": "Carbon",
+        "canonical": "#121419",
+        "tonalRamp": ["oklch(15% 0.012 265)", "oklch(26% 0.012 265)", "oklch(38% 0.012 265)", "oklch(50% 0.012 265)", "oklch(63% 0.012 265)", "oklch(75% 0.012 265)", "oklch(86% 0.012 265)", "oklch(95% 0.012 265)"]
+      },
+      "carbon-muted": {
+        "role": "neutral",
+        "displayName": "Muted Carbon",
+        "canonical": "#51545a",
+        "tonalRamp": ["oklch(15% 0.01 265)", "oklch(26% 0.01 265)", "oklch(38% 0.01 265)", "oklch(50% 0.01 265)", "oklch(63% 0.01 265)", "oklch(75% 0.01 265)", "oklch(86% 0.01 265)", "oklch(95% 0.01 265)"]
+      },
+      "carbon-subtle": {
+        "role": "neutral",
+        "displayName": "Subtle Carbon",
+        "canonical": "#74777e",
+        "tonalRamp": ["oklch(15% 0.009 265)", "oklch(26% 0.009 265)", "oklch(38% 0.009 265)", "oklch(50% 0.009 265)", "oklch(63% 0.009 265)", "oklch(75% 0.009 265)", "oklch(86% 0.009 265)", "oklch(95% 0.009 265)"]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Paper Line",
+        "canonical": "#c9c6bb",
+        "tonalRamp": ["oklch(15% 0.012 90)", "oklch(26% 0.012 90)", "oklch(38% 0.012 90)", "oklch(50% 0.012 90)", "oklch(63% 0.012 90)", "oklch(75% 0.012 90)", "oklch(86% 0.012 90)", "oklch(95% 0.012 90)"]
+      },
+      "line-strong": {
+        "role": "neutral",
+        "displayName": "Strong Line",
+        "canonical": "#92959c",
+        "tonalRamp": ["oklch(15% 0.01 265)", "oklch(26% 0.01 265)", "oklch(38% 0.01 265)", "oklch(50% 0.01 265)", "oklch(63% 0.01 265)", "oklch(75% 0.01 265)", "oklch(86% 0.01 265)", "oklch(95% 0.01 265)"]
+      },
+      "electric-blue": {
+        "role": "primary",
+        "displayName": "Electric Blue",
+        "canonical": "#155eef",
+        "tonalRamp": ["oklch(15% 0.18 260)", "oklch(26% 0.18 260)", "oklch(38% 0.18 260)", "oklch(50% 0.18 260)", "oklch(63% 0.18 260)", "oklch(75% 0.18 260)", "oklch(86% 0.18 260)", "oklch(95% 0.18 260)"]
+      },
+      "electric-blue-hover": {
+        "role": "primary",
+        "displayName": "Electric Blue Hover",
+        "canonical": "#0d47d9",
+        "tonalRamp": ["oklch(15% 0.2 260)", "oklch(26% 0.2 260)", "oklch(38% 0.2 260)", "oklch(50% 0.2 260)", "oklch(63% 0.2 260)", "oklch(75% 0.2 260)", "oklch(86% 0.2 260)", "oklch(95% 0.2 260)"]
+      },
+      "deep-blue": {
+        "role": "primary",
+        "displayName": "Deep Blue",
+        "canonical": "#0b3dba",
+        "tonalRamp": ["oklch(15% 0.17 260)", "oklch(26% 0.17 260)", "oklch(38% 0.17 260)", "oklch(50% 0.17 260)", "oklch(63% 0.17 260)", "oklch(75% 0.17 260)", "oklch(86% 0.17 260)", "oklch(95% 0.17 260)"]
+      },
+      "active-cyan": {
+        "role": "secondary",
+        "displayName": "Active Cyan",
+        "canonical": "#28c7e8",
+        "tonalRamp": ["oklch(15% 0.12 215)", "oklch(26% 0.12 215)", "oklch(38% 0.12 215)", "oklch(50% 0.12 215)", "oklch(63% 0.12 215)", "oklch(75% 0.12 215)", "oklch(86% 0.12 215)", "oklch(95% 0.12 215)"]
+      },
+      "active-cyan-soft": {
+        "role": "secondary",
+        "displayName": "Soft Active Cyan",
+        "canonical": "#cff6fc",
+        "tonalRamp": ["oklch(15% 0.045 215)", "oklch(26% 0.045 215)", "oklch(38% 0.045 215)", "oklch(50% 0.045 215)", "oklch(63% 0.045 215)", "oklch(75% 0.045 215)", "oklch(86% 0.045 215)", "oklch(95% 0.045 215)"]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "canonical": "#fff",
+        "tonalRamp": ["oklch(15% 0 0)", "oklch(26% 0 0)", "oklch(38% 0 0)", "oklch(50% 0 0)", "oklch(63% 0 0)", "oklch(75% 0 0)", "oklch(86% 0 0)", "oklch(95% 0 0)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Marca monumental del Inicio; una sola masa Display por vista." },
+      "page-title": { "displayName": "Page Title", "purpose": "Título principal de Entregas y Nosotros." },
+      "detail-title": { "displayName": "Detail Title", "purpose": "Nombre de una entrega en la cabecera de detalle." },
+      "section-title": { "displayName": "Section Title", "purpose": "Cambio de capítulo editorial." },
+      "card-title": { "displayName": "Card Title", "purpose": "Títulos de colecciones y contenedores compactos." },
+      "body": { "displayName": "Body", "purpose": "Interfaz y texto explicativo." },
+      "reading": { "displayName": "Reading", "purpose": "Markdown de entrega en columna de 68ch." },
+      "meta": { "displayName": "Meta", "purpose": "Rutas, fechas, conteos y datos tabulares." },
+      "label": { "displayName": "Label", "purpose": "Tipos, estados y progreso." }
+    },
+    "shadows": [
+      { "name": "float", "value": "0 18px 45px rgba(18, 20, 25, 0.14)", "purpose": "Carpeta central y ventana de evidencia." },
+      { "name": "card", "value": "0 10px 28px rgba(18, 20, 25, 0.1)", "purpose": "Terminales, hojas, menús y ficha de metadatos." },
+      { "name": "pressed", "value": "0 4px 12px rgba(18, 20, 25, 0.12)", "purpose": "Respuesta activa de botones." }
+    ],
+    "motion": [
+      { "name": "fast", "value": "140ms", "purpose": "Hover y active de controles." },
+      { "name": "base", "value": "220ms", "purpose": "Elevación de colecciones y cambios de componentes." },
+      { "name": "scene", "value": "620–650ms", "purpose": "Asentamiento inicial de carpeta y fichas del hero." },
+      { "name": "ease-out", "value": "cubic-bezier(0.22, 1, 0.36, 1)", "purpose": "Curva principal de movimiento físico." }
+    ],
+    "breakpoints": [
+      { "name": "wide-adjustment", "value": "1100px" },
+      { "name": "stack", "value": "900px" },
+      { "name": "mobile", "value": "767px" },
+      { "name": "narrow-mobile", "value": "420px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Acción principal sobre crema o papel.",
+      "html": "<button class=\"ds-button ds-button-primary\"><span>Abrir entregas</span><svg viewBox=\"0 0 24 24\" width=\"19\" height=\"19\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"m14 6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-button { display:inline-flex; min-height:48px; align-items:center; justify-content:center; gap:10px; padding:12px 18px; border:2px solid transparent; border-radius:var(--r-control,10px); font-family:var(--font-sans-stack,'Space Grotesk',Arial,sans-serif); font-size:.9rem; font-weight:600; line-height:1; cursor:pointer; transition:transform 140ms var(--ease,cubic-bezier(.22,1,.36,1)),background 140ms ease,box-shadow 140ms ease; } .ds-button-primary { color:var(--color-white,#fff); background:var(--color-blue,#155eef); border-color:var(--color-blue,#155eef); } .ds-button-primary:hover { background:var(--color-blue-hover,#0d47d9); border-color:var(--color-blue-hover,#0d47d9); transform:translateY(-2px); } .ds-button:active { transform:none; box-shadow:0 4px 12px rgba(18,20,25,.12); } .ds-button:focus-visible { outline:3px solid var(--color-blue,#155eef); outline-offset:4px; }"
+    },
+    {
+      "name": "Paper Button",
+      "kind": "button",
+      "refersTo": "button-paper",
+      "description": "Acción inversa dentro de una carpeta azul o una sección carbón.",
+      "html": "<button class=\"ds-button-paper\"><span>Abrir archivo</span><svg viewBox=\"0 0 24 24\" width=\"19\" height=\"19\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"m14 6 6 6-6 6\"/></svg></button>",
+      "css": ".ds-button-paper { display:inline-flex; min-height:48px; align-items:center; justify-content:center; gap:10px; padding:12px 18px; color:var(--color-ink,#121419); background:var(--color-paper,#fffcf4); border:2px solid var(--color-paper,#fffcf4); border-radius:var(--r-control,10px); font-family:var(--font-sans-stack,'Space Grotesk',Arial,sans-serif); font-size:.9rem; font-weight:600; line-height:1; cursor:pointer; transition:transform 140ms var(--ease,cubic-bezier(.22,1,.36,1)),background 140ms ease; } .ds-button-paper:hover { background:var(--color-cyan-soft,#cff6fc); border-color:var(--color-cyan-soft,#cff6fc); transform:translateY(-2px); } .ds-button-paper:active { transform:none; } .ds-button-paper:focus-visible { outline:3px solid var(--color-cyan,#28c7e8); outline-offset:4px; }"
+    },
+    {
+      "name": "Type Tags",
+      "kind": "chip",
+      "description": "Taxonomía de Proyecto, Taller y Deber con palabra e icono SVG.",
+      "html": "<div class=\"ds-tags\"><span class=\"ds-tag ds-tag-project\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"6\" cy=\"5\" r=\"2\"/><circle cx=\"18\" cy=\"7\" r=\"2\"/><circle cx=\"6\" cy=\"19\" r=\"2\"/><path d=\"M6 7v10m2-5h4c3.3 0 6-1.3 6-3\"/></svg>Proyecto</span><span class=\"ds-tag ds-tag-workshop\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><rect x=\"2.5\" y=\"4\" width=\"19\" height=\"16\" rx=\"2.5\"/><path d=\"m7 9 3 3-3 3m6 0h4\"/></svg>Taller</span><span class=\"ds-tag ds-tag-task\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M6 2.5h8l4 4V21H6z\"/><path d=\"M14 2.5V7h4\"/></svg>Deber</span></div>",
+      "css": ".ds-tags { display:flex; flex-wrap:wrap; gap:8px; } .ds-tag { display:inline-flex; min-height:32px; align-items:center; gap:7px; padding:5px 11px; border:1.5px solid var(--color-ink,#121419); border-radius:var(--r-control,10px); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.72rem; font-weight:600; line-height:1; white-space:nowrap; } .ds-tag svg { width:16px; height:16px; fill:none; stroke:currentColor; stroke-width:1.75; stroke-linecap:round; stroke-linejoin:round; } .ds-tag-project { color:var(--color-paper,#fffcf4); background:var(--color-ink,#121419); } .ds-tag-workshop { color:var(--color-ink,#121419); background:var(--color-cyan,#28c7e8); } .ds-tag-task { color:var(--color-ink,#121419); background:var(--color-paper,#fffcf4); }"
+    },
+    {
+      "name": "Delivery Status",
+      "kind": "chip",
+      "refersTo": "status-delivered",
+      "description": "Estado textual reforzado con forma e icono; no depende solo del color.",
+      "html": "<span class=\"ds-status\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m5 12 4.5 4.5L19 7\"/></svg>Entregado</span>",
+      "css": ".ds-status { display:inline-flex; min-height:30px; align-items:center; gap:7px; padding:5px 11px; color:var(--color-white,#fff); background:var(--color-blue,#155eef); border:1.5px solid transparent; border-radius:var(--r-control,10px); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.72rem; font-weight:600; line-height:1; white-space:nowrap; } .ds-status svg { width:16px; height:16px; fill:none; stroke:currentColor; stroke-width:1.75; stroke-linecap:round; stroke-linejoin:round; }"
+    },
+    {
+      "name": "Repository Search",
+      "kind": "input",
+      "refersTo": "search-field",
+      "description": "Campo claro integrado en una barra de repositorio carbón.",
+      "html": "<div class=\"ds-search-bar\"><span class=\"ds-path\">devnova / entregas / <strong>todas</strong></span><label class=\"ds-search\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"10.5\" cy=\"10.5\" r=\"6.5\"/><path d=\"m16 16 5 5\"/></svg><span class=\"ds-sr\">Buscar entregas</span><input type=\"search\" placeholder=\"Título, autor o tecnología\"/></label></div>",
+      "css": ".ds-search-bar { min-height:68px; display:grid; grid-template-columns:1fr minmax(260px,.58fr); gap:20px; align-items:center; padding:10px 12px 10px 20px; color:var(--color-paper,#fffcf4); background:var(--color-ink,#121419); border-radius:var(--r-window,16px) var(--r-window,16px) 0 0; font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); } .ds-path { font-size:.78rem; } .ds-path strong { color:var(--color-cyan,#28c7e8); } .ds-search { min-height:46px; display:flex; align-items:center; gap:10px; padding:0 12px; color:var(--color-ink,#121419); background:var(--color-paper,#fffcf4); border-radius:var(--r-control,10px); } .ds-search svg { width:19px; fill:none; stroke:currentColor; stroke-width:1.75; stroke-linecap:round; } .ds-search input { min-width:0; width:100%; color:inherit; background:transparent; border:0; outline:0; font-family:var(--font-sans-stack,'Space Grotesk',Arial,sans-serif); font-size:.85rem; } .ds-search:focus-within { outline:3px solid var(--color-cyan,#28c7e8); outline-offset:4px; } .ds-sr { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0); }"
+    },
+    {
+      "name": "Global Navigation",
+      "kind": "nav",
+      "description": "Marca de carpeta a la izquierda y cápsula carbón con estado activo cian.",
+      "html": "<div class=\"ds-nav-shell\"><a class=\"ds-brand\" href=\"#\"><svg viewBox=\"0 0 28 24\" aria-hidden=\"true\"><path d=\"M2 5.5h9l2.2-3H26v18.5H2z\"/><path class=\"ds-brand-line\" d=\"M2 8h24\"/></svg><strong>DevNova</strong><span>/main</span></a><nav class=\"ds-nav\"><a class=\"ds-nav-active\" href=\"#\">Inicio</a><a href=\"#\">Entregas</a><a href=\"#\">Nosotros</a></nav></div>",
+      "css": ".ds-nav-shell { min-height:58px; display:grid; grid-template-columns:1fr auto; align-items:center; gap:24px; border-top:1px solid var(--color-ink,#121419); border-bottom:1px solid var(--color-ink,#121419); font-family:var(--font-sans-stack,'Space Grotesk',Arial,sans-serif); } .ds-brand { display:inline-flex; width:max-content; align-items:center; gap:9px; color:var(--color-ink,#121419); text-decoration:none; } .ds-brand svg { width:28px; fill:var(--color-blue,#155eef); } .ds-brand-line { fill:none; stroke:var(--color-cyan,#28c7e8); stroke-width:2; } .ds-brand strong { font-size:1.1rem; letter-spacing:-.035em; } .ds-brand span { color:var(--color-ink-muted,#51545a); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.7rem; } .ds-nav { display:flex; align-items:center; gap:4px; padding:5px; background:var(--color-ink,#121419); border-radius:999px; } .ds-nav a { min-height:44px; display:inline-flex; align-items:center; padding:0 16px; color:#bfc1c7; border-radius:999px; font-size:.8rem; font-weight:600; text-decoration:none; } .ds-nav a:hover { color:var(--color-white,#fff); } .ds-nav a:focus-visible { outline:3px solid var(--color-cyan,#28c7e8); outline-offset:4px; } .ds-nav .ds-nav-active { color:var(--color-ink,#121419); background:var(--color-cyan,#28c7e8); }"
+    },
+    {
+      "name": "Repository Folder",
+      "kind": "custom",
+      "description": "Componente de firma: pestañas escalonadas y contenido verificable dentro del cuerpo azul.",
+      "html": "<div class=\"ds-folder\"><div class=\"ds-tabs\" aria-hidden=\"true\"><span>equipo</span><span>entregas</span><span>main</span></div><div class=\"ds-folder-body\"><p class=\"ds-folder-path\">devnova / entradas / archivo.md</p><div class=\"ds-folder-content\"><div><span class=\"ds-folder-type\">Proyecto</span><h2>Entrega destacada</h2><p>Evidencia, estado y autoría dentro del archivo.</p></div><button>Abrir archivo</button></div></div></div>",
+      "css": ".ds-folder { position:relative; width:min(100%,850px); padding-top:48px; font-family:var(--font-sans-stack,'Space Grotesk',Arial,sans-serif); } .ds-tabs { position:absolute; inset:0 0 auto; height:76px; } .ds-tabs span { position:absolute; top:0; min-width:170px; height:62px; display:flex; align-items:center; justify-content:center; padding-inline:22px; color:var(--color-white,#fff); background:var(--color-blue-deep,#0b3dba); border-radius:20px 20px 0 0; font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.7rem; } .ds-tabs span:nth-child(1) { left:4%; top:17px; opacity:.82; } .ds-tabs span:nth-child(2) { left:30%; top:8px; background:#0f4ed1; } .ds-tabs span:nth-child(3) { right:8%; color:var(--color-ink,#121419); background:var(--color-cyan,#28c7e8); } .ds-folder-body { position:relative; min-height:360px; padding:clamp(26px,4vw,48px); color:var(--color-white,#fff); background:var(--color-blue,#155eef); border-radius:22px 22px var(--r-folder,30px) var(--r-folder,30px); box-shadow:0 18px 45px rgba(18,20,25,.14); } .ds-folder-path { margin:0; padding-bottom:14px; border-bottom:1px solid rgba(255,255,255,.38); color:#dbe7ff; font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.78rem; } .ds-folder-content { min-height:270px; display:grid; grid-template-columns:1.25fr .75fr; gap:32px; align-items:end; padding-top:32px; } .ds-folder-type { display:inline-flex; padding:5px 11px; color:var(--color-paper,#fffcf4); background:var(--color-ink,#121419); border-radius:var(--r-control,10px); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.72rem; font-weight:600; } .ds-folder h2 { max-width:14ch; margin:16px 0 0; font-size:clamp(2rem,4vw,4rem); line-height:.94; letter-spacing:-.04em; } .ds-folder p:not(.ds-folder-path) { max-width:48ch; margin:16px 0 0; color:#e4ecff; line-height:1.55; } .ds-folder button { min-height:48px; padding:12px 18px; color:var(--color-ink,#121419); background:var(--color-paper,#fffcf4); border:2px solid var(--color-paper,#fffcf4); border-radius:var(--r-control,10px); font-weight:600; cursor:pointer; } .ds-folder button:hover { background:var(--color-cyan-soft,#cff6fc); border-color:var(--color-cyan-soft,#cff6fc); } .ds-folder button:focus-visible { outline:3px solid var(--color-cyan,#28c7e8); outline-offset:4px; }"
+    },
+    {
+      "name": "File Row",
+      "kind": "custom",
+      "description": "Fila escaneable de entrega con archivo, estado, fecha y una única microinteracción direccional.",
+      "html": "<a class=\"ds-file-row\" href=\"#\"><span class=\"ds-file-icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M6 2.5h8l4 4V21H6z\"/><path d=\"M14 2.5V7h4\"/><path d=\"m9 12 2 2-2 2m4 0h2\"/></svg></span><span class=\"ds-file-title\"><strong>Archivo de entrega</strong><span>Unidad 1 · Semana 1</span></span><span class=\"ds-file-status\">Entregado</span><time>23 ago</time><svg class=\"ds-file-arrow\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"m14 6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-file-row { display:grid; grid-template-columns:52px minmax(220px,1fr) 130px 80px 28px; align-items:center; gap:16px; min-height:88px; padding:12px 8px; color:var(--color-ink,#121419); border-top:1px solid var(--color-line,#c9c6bb); text-decoration:none; font-family:var(--font-sans-stack,'Space Grotesk',Arial,sans-serif); transition:background 140ms ease; } .ds-file-row:hover { background:var(--color-paper,#fffcf4); } .ds-file-row:focus-visible { outline:3px solid var(--color-blue,#155eef); outline-offset:4px; } .ds-file-icon { width:42px; height:48px; display:grid; place-items:center; color:var(--color-blue,#155eef); background:var(--color-cyan-soft,#cff6fc); border-radius:7px 7px 10px 10px; } .ds-file-icon svg,.ds-file-arrow { width:23px; fill:none; stroke:currentColor; stroke-width:1.75; stroke-linecap:round; stroke-linejoin:round; } .ds-file-title { min-width:0; display:grid; gap:3px; } .ds-file-title strong { font-size:1rem; line-height:1.25; letter-spacing:-.02em; } .ds-file-title span,time { color:var(--color-ink-muted,#51545a); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.72rem; } .ds-file-status { width:max-content; padding:5px 11px; color:var(--color-white,#fff); background:var(--color-blue,#155eef); border-radius:var(--r-control,10px); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.72rem; font-weight:600; } .ds-file-arrow { width:20px; transition:transform 180ms var(--ease,cubic-bezier(.22,1,.36,1)); } .ds-file-row:hover .ds-file-arrow { color:var(--color-blue,#155eef); transform:translateX(4px); }"
+    },
+    {
+      "name": "Evidence Window",
+      "kind": "card",
+      "description": "Marco carbón que declara una captura o su ausencia como evidencia.",
+      "html": "<figure class=\"ds-evidence\"><div class=\"ds-evidence-bar\"><span class=\"ds-window-dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span>evidencia-pendiente.md</span><span>DevNova</span></div><div class=\"ds-evidence-empty\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><rect x=\"2.5\" y=\"4\" width=\"19\" height=\"16\" rx=\"2.5\"/><path d=\"m7 9 3 3-3 3m6 0h4\"/></svg><p><span>$</span> esperando captura verificable</p></div><figcaption>Captura pendiente · contenido de muestra</figcaption></figure>",
+      "css": ".ds-evidence { overflow:hidden; margin:0; color:var(--color-paper,#fffcf4); background:#1a1d23; border-radius:var(--r-window,16px); box-shadow:0 18px 45px rgba(18,20,25,.14); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); } .ds-evidence-bar { min-height:44px; display:grid; grid-template-columns:1fr auto 1fr; align-items:center; gap:12px; padding:0 14px; border-bottom:1px solid #34373e; color:#c9cbd1; font-size:.68rem; } .ds-evidence-bar>span:last-child { justify-self:end; color:#8f929a; } .ds-window-dots { display:flex; gap:6px; } .ds-window-dots i { width:8px; height:8px; background:#777a81; border-radius:50%; } .ds-window-dots i:nth-child(2) { background:var(--color-cyan,#28c7e8); } .ds-evidence-empty { min-height:280px; display:grid; place-content:center; justify-items:center; gap:14px; padding:40px; text-align:center; } .ds-evidence-empty svg { width:42px; fill:none; stroke:var(--color-cyan,#28c7e8); stroke-width:1.75; stroke-linecap:round; stroke-linejoin:round; } .ds-evidence-empty p { margin:0; } .ds-evidence-empty p span { color:var(--color-cyan,#28c7e8); } .ds-evidence figcaption { padding:10px 14px; border-top:1px solid #34373e; color:#aeb0b6; font-size:.66rem; }"
+    },
+    {
+      "name": "Entry Metadata Sheet",
+      "kind": "card",
+      "description": "Ficha de datos con una sola señal exterior de elevación: sombra sin borde.",
+      "html": "<aside class=\"ds-entry-sheet\"><div class=\"ds-entry-sheet-head\"><span>archivo 01</span><strong>Entregado</strong></div><dl><div><dt>Unidad / semana</dt><dd>— / —</dd></div><div><dt>Fecha de entrega</dt><dd>Fecha pendiente</dd></div><div><dt>Autoría</dt><dd>Autoría pendiente</dd></div></dl></aside>",
+      "css": ".ds-entry-sheet { overflow:hidden; color:var(--color-ink,#121419); background:var(--color-paper,#fffcf4); border:0; border-radius:var(--r-window,16px); box-shadow:0 10px 28px rgba(18,20,25,.1); font-family:var(--font-sans-stack,'Space Grotesk',Arial,sans-serif); } .ds-entry-sheet-head { min-height:56px; display:flex; align-items:center; justify-content:space-between; gap:12px; padding:10px 14px; color:var(--color-paper,#fffcf4); background:var(--color-ink,#121419); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.72rem; } .ds-entry-sheet-head strong { padding:5px 11px; color:var(--color-white,#fff); background:var(--color-blue,#155eef); border-radius:var(--r-control,10px); } .ds-entry-sheet dl { margin:0; padding:4px 16px; } .ds-entry-sheet dl div { display:grid; grid-template-columns:1fr 1fr; gap:12px; padding-block:13px; border-bottom:1px solid var(--color-line,#c9c6bb); } .ds-entry-sheet dt { color:var(--color-ink-muted,#51545a); font-family:var(--font-mono-stack,'IBM Plex Mono',Consolas,monospace); font-size:.7rem; } .ds-entry-sheet dd { margin:0; text-align:right; font-size:.85rem; font-weight:600; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "El archivo que compila",
+    "overview": "DevNova convierte el expediente académico en una carpeta de proyecto explorable. La interfaz se siente como una mesa editorial de papel crema donde una carpeta azul eléctrico organiza entregas verificables; terminales carbón, rutas y estados monoespaciados explican qué contiene cada archivo y cómo comprobarlo. La expresividad pertenece a la escala y a la composición, no a la decoración.\n\nLa portada concentra el mundo completo: la palabra DevNova es monumental, la carpeta es el objeto dominante y la acción vive dentro de ella; una terminal a la izquierda y una ficha de estado a la derecha completan la historia. En Entregas, detalle, Nosotros y 404, la misma gramática se vuelve más sobria para favorecer localización, autoría, estado y evidencia. Se rechazan tanto la cuadrícula de tarjetas genéricas como la consola monocroma que diluyen la metáfora de archivo.",
+    "keyCharacteristics": [
+      "Papel crema como mesa continua; nunca blanco puro a pantalla completa.",
+      "Carpeta azul eléctrico con pestañas escalonadas como firma estructural.",
+      "Terminales carbón para contexto técnico y evidencia verificable.",
+      "Space Grotesk para la voz editorial e IBM Plex Mono para datos.",
+      "Asimetría controlada, con máximo dos piezas rotadas en un viewport.",
+      "Iconografía geométrica implementada con SVG o CSS, nunca con glifos tipográficos ni emoji.",
+      "Sin eyebrows decorativos: rutas, estados y metadatos existen solo cuando aportan información real."
+    ],
+    "rules": [
+      { "name": "The Evidence-First Rule", "body": "La jerarquía conduce desde identificación y estado hacia evidencia o repositorio; ningún gesto gráfico puede desplazar esos datos.", "section": "overview" },
+      { "name": "The Blue Builds, Cyan Activates Rule", "body": "El azul define estructura y acción; el cian comunica actividad o relación. No se intercambian por variedad.", "section": "colors" },
+      { "name": "The Text-Plus-Shape Rule", "body": "Tipo, estado y progreso siempre incluyen texto y una forma o icono; el color nunca carga el significado por sí solo.", "section": "colors" },
+      { "name": "The One Display Rule", "body": "Solo existe una masa Display por vista; los demás títulos bajan de escala para que el objeto principal siga siendo inequívoco.", "section": "typography" },
+      { "name": "The Data Voice Rule", "body": "Rutas, estados, fechas y cifras comparables usan IBM Plex Mono y números tabulares; títulos y párrafos nunca adoptan la voz de terminal.", "section": "typography" },
+      { "name": "The One Dominant Mass Rule", "body": "Cada viewport tiene una sola masa dominante; las demás piezas orientan o verifican, nunca compiten.", "section": "layout" },
+      { "name": "The Flow Before Overlap Rule", "body": "La superposición pertenece al hero y a las hojas editoriales. Índices, lectura y móvil usan flujo normal y orden DOM lógico.", "section": "layout" },
+      { "name": "The Physical Object Rule", "body": "Solo carpeta, ventana, hoja, terminal, menú o control presionado proyectan sombra.", "section": "elevation" },
+      { "name": "The Folder Silhouette Rule", "body": "Una carpeta se construye con cuerpo y pestañas; pegar un glifo de carpeta sobre una tarjeta no cuenta como la firma de DevNova.", "section": "shapes" },
+      { "name": "The Single-Edge Rule", "body": "Una superficie elevada usa borde o sombra según su función, no ambos como doble marco, salvo que el borde sea un divisor interno.", "section": "shapes" }
+    ],
+    "dos": [
+      "**Do** usar el trío crema–azul–carbón como materiales y el cian como señal activa.",
+      "**Do** mantener la carpeta y la lista de archivos como las dos pruebas decisivas de identidad.",
+      "**Do** mostrar tipo, estado, fecha y autoría antes de pedir que se abra una entrega.",
+      "**Do** usar SVG geométrico o CSS para iconos, señales y siluetas.",
+      "**Do** mantener controles táctiles de al menos 44px, foco visible y estado textual.",
+      "**Do** conservar evidencia real a tamaño útil y declarar explícitamente cualquier pendiente.",
+      "**Do** quitar rotación, superposición y movimiento cuando el viewport o la preferencia del usuario lo exijan."
+    ],
+    "donts": [
+      "**Don't** convertir el índice o la portada en una cuadrícula de tarjetas genéricas.",
+      "**Don't** regresar a una consola monocroma a pantalla completa, neón gamer, glassmorphism, gradientes o fondos de código decorativo.",
+      "**Don't** usar eyebrows decorativos sobre títulos; rutas y metadatos deben tener función informativa.",
+      "**Don't** usar emoji, caracteres tipográficos o glifos de fuente como iconografía de producto.",
+      "**Don't** aplicar borde exterior y sombra a la vez a una ficha ya elevada.",
+      "**Don't** introducir colores arbitrarios por tipo, tecnología, autor o estado.",
+      "**Don't** inventar capturas, nombres, fechas, porcentajes, repositorios, commits o afirmaciones académicas.",
+      "**Don't** esconder navegación, evidencia o metadatos esenciales detrás de hover."
+    ]
+  }
+}
